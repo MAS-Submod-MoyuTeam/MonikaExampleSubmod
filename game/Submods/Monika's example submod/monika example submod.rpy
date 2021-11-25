@@ -1,8 +1,8 @@
 init -990 python:
     store.mas_submod_utils.Submod(
-        author="Monika"
-        name="Monika's example submod"
-        description="I love you."
+        author="Monika",
+        name="Monika's example submod",
+        description="I love you.",
         version='1.0.1'
     )
 
